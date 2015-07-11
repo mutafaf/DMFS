@@ -1,12 +1,20 @@
+<!--
+Author: MoujTechnologies
+Author URL: www.moujtechnologies.com
+
+-->
+<!DOCTYPE HTML>
+<html>
+
 <head>
-<title>Medicus a Medical Category Flat bootstrap Responsive  Website Template| Home :: w3layouts</title>	
+<title> Dental & Maxillofacial Surgery, Lahore </title>	
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); }>
 </script>
-<meta name="keywords" content="Medicus Responsive web template, Bootstrap Web Templates, Flat Web Templates, AndriodCompatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<meta name="keywords" content="Dental, DFMS, Lahore Dental, DHA Dental,Dental Clinic, Dental & Maxillofacial Surgery, Lahore, Dental & Maxillofacial Surgery,  Maxillofacial Surgery, Dental Maxillofacial Surgery, Maxillofacial,  Dental Surgery " />
 <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 <script src="js/jquery.min.js"> </script>
 <!--fonts-->
@@ -61,17 +69,15 @@
 					<div class="top-header-right">
 										<ul class="support">
 											<li><span><i class="tele-in"> </i>+92 322 4228357</span></li>
-					<li><a href="mailto:info@example.com"><i> </i>info@example.com</a></li>
+					<li><a href="mailto:info@dmfs.com.pk"><i> </i>info@dmfs.com.pk</a></li>
 				</ul>
 						<div class="top-header-contact-account">
 							
 							<div class="social">
 								<ul>
-									<li><a href="#"><i class="facebook"> </i></a></li>
-									<li><a href="#"><i class="twitter"> </i></a></li>
-									<li><a href="#"><i class="dribble"> </i></a></li>	
-									<li><a href="#"><i class="linkdin"> </i></a></li>	
-									<li><a href="#"><i class="google"> </i></a></li>										
+									<li><a href="https://www.facebook.com/dmfsLahore"><i class="facebook"> </i></a></li>
+									<li><a href="https://www.twitter.com/dmfsLahore"><i class="twitter"> </i></a></li>
+																		
 								</ul>
 							</div>
 						</div>

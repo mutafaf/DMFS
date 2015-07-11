@@ -1,11 +1,4 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE HTML>
-<html>
+
 
 		<?php
 		include("header.php")
@@ -32,12 +25,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<li><a href="projects.php">Projects</a></li>
 				<li><a href="contact.php">Contact Us</a></li>
 			  </ul>
-				<div class="search">
-					<form>
-						<input type="search" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}" required="">
-						<input type="submit" value=" ">
-					</form>
-				</div>
 			  <div class="clearfix"> </div>
 			</div><!-- /.navbar-collapse -->
 		</nav>
@@ -62,8 +49,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="image-slider">
 						<!-- Slideshow 1 -->
 					    <ul class="rslides" id="slider1">
-					      <li><img src="images/sl99.jpg" alt="">
-					      </li>
 					      <li><img src="images/slider1.jpg" alt=""></li>
 					      <li><img src="images/slider2.jpg" alt=""></li>
 					    </ul>

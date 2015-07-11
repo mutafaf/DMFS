@@ -1,8 +1,6 @@
 /*=============================================
 Author: W3layouts
 Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
 ================================================*/
 body{
 	font-family: 'Open Sans', sans-serif;
@@ -44,7 +42,7 @@ ul, ol{
   background-color: #fff;
 }
 .top-header-contact-account {
-  width: 51%;
+  width: 21%;
   float: right;
     margin-top: 15px;
 }
@@ -171,7 +169,7 @@ position: absolute;
 	display:inline-block;
 	  border-right: 1px solid#E0E0E0 ;
 }
-.social ul li:nth-child(5) {
+.social ul li:nth-child(2) {
   border-right: 0;
 }
 a i.facebook {
@@ -1656,7 +1654,7 @@ a  i.share:hover{
 	  font-size: 0.83em;
 	}
 	.top-header-contact-account {
-	    width: 51%;
+	    width: 21%;
 	}
 	.top-header {
 	  margin-bottom: 0em;
@@ -1835,7 +1833,7 @@ a  i.share:hover{
 	  font-size: 0.8em;
 	}
 	.top-header-contact-account {
-	  width: 52%;
+	  width: 22%;
 	}
 	.banner-grid4 {
 	  height: 187px;
@@ -1882,7 +1880,7 @@ a  i.share:hover{
 		background-size:100%;
 		width:100%;
 	}
-	.logo {
+	.logo {  
 	  padding: 13px 0px;
 	  width: 25%;
 	    margin-top: 2em;
@@ -2274,7 +2272,7 @@ a  i.share:hover{
 	}
 	.top-header-contact-account {
 	    right: 0%;
-	   width: 61%;
+	   width: 20%;
 	    margin: 15px auto 0;
 	  bottom: 0px !important;
 	}
@@ -2809,7 +2807,7 @@ a  i.share:hover{
 	  padding: 1em 1em 3em 1em;
 	}
 	.top-header-contact-account {
-	  width: 57%;
+	  width: 27%;
 	}
 	.search input[type="search"] {
 	  width: 90%;
@@ -2989,7 +2987,7 @@ a  i.share:hover{
 	  width: 49%;
 	}
 	.top-header-contact-account {
-	   width: 50%;
+	   width: 20%;
        float: none;
 	}
 	.social i {
@@ -3342,4 +3340,8 @@ a  i.share:hover{
 	.team-grid img {
 	  width: 70%;
 	}
+  .DetailHeading
+  {
+    color: #085892;
+  }
 }
