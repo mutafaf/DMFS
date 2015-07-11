@@ -59,7 +59,7 @@
 
   	      <div class="row">
   	      	<div class="col-md-1"></div>
-  	      		<div class="col-md-4" bor><section>
+  	      		<div class="col-md-4" bor><p>
 <h3 class="DetailHeading">Children Dentistry</h3>
 Closely monitoring tooth and the facial bone development and the oral health are very much important for younger children, as the baby teeth create the foundation of the adult teeth. You should bring your child to see DMFS for the regular checkups after every six months.<br>
 
@@ -67,7 +67,7 @@ The regular checkups ensure the problems, if the teeth not coming through at all
 
 To ensure your child's teeth are developing correctly, schedule an appointment DMFS today.
 
-  	      		</section><br>
+  	      		</p><br>
 <p>
   	      			<h3 class="DetailHeading">Cosmetic Dentistry</h3>
   	      			<h4>Teeth Whitening</h4> This is perhaps the most commonly recommended cosmetic dentistry procedure. Teeth are often stained from smoking, food, drink (coffee, tea, or red wine), or poor oral hygiene. Bleaching the teeth can enhance the appearance of your smile.<br>
@@ -123,13 +123,9 @@ The dental implant procedure is brief and takes place in a single visit, but it 
 <br>Like your own teeth, dentures need special care to keep them looking great and feeling good for many years. Older dentures can be made to fit your gums better by having them relined, which can be a cheaper and better alternative to a new denture.
 <br>At our practice, dentures that need additional teeth or are broken can usually be repaired within a few hours.
 <br>Our goal is to provide the highest level of service and craftsmanship in fitting and fabricating dentures. We aim to do our utmost to exceed your expectations by offering a service that is perfectly tailored to meet your needs, expectations and budget.
- 	</div>	
 
 
-
-  	      		<div class="col-md-1"></div>
-  	      		<div class="col-md-4">
-  	      			<p><h3 class="DetailHeading">Family Dentistry</h3>
+<p><h3 class="DetailHeading">Family Dentistry</h3>
 
 We offer the dentistry services for the whole family, from children to adults. For a general well-being, good dental health and appearance is essential for everyone. It is recommended for the children to have a sound introduction to Dentistry. The children enjoy and feel happy in our practice, while our team makes the whole procedure comfortable for the kids. <br>
 
@@ -158,6 +154,13 @@ Dental crowns provide an aesthetic and protective solution to teeth that have un
   	      		</p><br>
 
 
+ 	</div>	
+
+
+
+  	      		<div class="col-md-1"></div>
+  	      		<div class="col-md-4">
+  	      			
   	      			<p><h3 class="DetailHeading">Oral Surgery </h3>
 			<h4> A Healthy Mouth</h4>
 			The inside of a healthy mouth is normally lined with a special type of skin (mucosa) that is smooth and coral pink in color. Any alteration in this appearance could be a warning sign for a pathological process. The most serious of these is oral cancer. The following can be signs which signal the beginning of an oral pathology.<br>
@@ -174,19 +177,76 @@ Dental crowns provide an aesthetic and protective solution to teeth that have un
 			If you feel that you or someone you know have any of the symptoms that have been discussed or if you have any questions and / or concerns, please do not hesitate to contact our office so we can put you in touch with our specialists who can address your concerns<br>
 
   	      			</p><br>
-				<p><h3 class="DetailHeading"> </h3>
+
+				<p><h3 class="DetailHeading">Orthodontics</h3>
+						<h4>ORTHODONTIC TREATMENT: AESTHETICS OR FUNCTION?</h4>
+Orthodontic treatment is an excellent way to straighten crooked teeth. It has a dual action; restoration of function and improvement of aesthetics resulting in a healthy smile. Despite a growing trend towards adult orthodontics, it pays to start orthodontic treatment early so that the specific condition can be dealt with more efficiently and produce excellent results.<br>
+<h4>ORTHODONTIC EVALUATION</h4>
+An orthodontic evaluation is carried out by the following:<br>
+ <ul><li>Clinical	examination</li>
+ <li>Intraoral and extraoral photographs plus study models</li>
+ <li>Panoramic and cephalometric radiographs</li>
+<li>Impressions for the models of teeth and bite( i.e occlusion)</li>
+</ul>
+The results of the complete evaluation will be studied thoroughly by the dentist and an individual treatment plan is formulated to provide the best aesthetics and function.
+<br>During the next visit, the dentist will discuss the treatment plan with you or the parent/guardian in case of a child. The estimate of how many months will be required to complete the active phase will be discussed. The standard treatment phase comprises of two years. Following treatment, you may be required to wear a retainer for a period of time.
+<br>The duration of orthodontic treatment varies: it varies with a variety of factors such as age, severity of malocclusion and compliance which means that how well the patient follows the treatment plan For example younger persons respond more quickly to orthodontic treatment because bones supporting young teeth are more pliable as compared to those supporting older teeth. However, adults follow treatment instructions more consistently than pre-teens.
+   	      			</p><br>
+  	      			<p><h3 class="DetailHeading">Preventive Dentistry</h3>
+The periodic oral exams and regular dental cleaning are imperative for the prevention of gum disease, oral disorders and tooth decay. In addition to flossing and brushing thoroughly every day, it is recommended to have a professional dental cleaning after every few months. The routine cleaning can remove the tartar and stains, while maintaining an optimum oral health and prevention against gum disease. The ultrasonic machines and manual scalars are used for the removal of an external deposit on the teeth like tartar or stains. The ultrasonic machines are used to loosen the hard deposits as the sound waves, without causing any harm to the tooth. The teeth are polished afterwards to assure a thorough cleaning and prevention against any plaque to adhere.
+  	      			</p><br>
+  	      				<p><h3 class="DetailHeading">Wisdom Teeth</h3>
+  	      					<h4>Wisdom teeth Information</h4>
+Wisdom teeth are the molars (back teeth) that come through last, usually in the late teens or early 20s. There are normally two wisdom teeth in the upper jaw and two in the lower jaw, but some people have less than four, or even none at all.<br>
+Wisdom teeth can be left in the mouth when they are healthy and properly positioned in the mouth. Extraction of third molars is generally recommended when:<br>
+<ul><li>Wisdom teeth erupt only partially. </li>
+<li>Poorly aligned wisdom teeth will damage the adjacent teeth.</li>
+<li>A cyst (fluid-filled sac) forms, destroying the surrounding structures such as bone & tooth roots.</li>
+<li>The mouth is too small for these teeth to erupt in a proper position behind the second molar. This is also referred to as Partial Bony Impaction. The most common complication of the partial bony impaction, is that the flap of gum tissue which partially covers the erupting third molar, creates a pocket where bacteria that are present in the mouth can grow and cause an infection known as pericoronitis which can lead to swelling and pain. The treatment for pericoronitis is extraction of the third molar tooth.</li>
+<li>Sometimes, the wisdom tooth comes through at an angle and pushes into the gum or the tooth beside it. This is called impaction. A wisdom tooth on an angle can’t help with chewing, which makes it useless and sometimes painful.</li>
+</ul>
+<h4>Problems with wisdom teeth</h4>
+When there is not enough room in the jaw for wisdom teeth, it can stop them coming through properly. Brushing and flossing these teeth can be difficult. Food and bacteria can get stuck between the wisdom tooth and the tooth next to it, leading to tooth decay and gum infections.<br>
+Crowded wisdom teeth in the upper jaw often lean sideways and rub against the cheek. This may cause ulcers on the cheek and chewing problems. Wisdom teeth may also push the other teeth closer together and affect a person’s bite.<br>
+
+<h4>Symptoms of wisdom teeth infection:</h4>
+Signs of gum infection caused by a wisdom tooth include: red, inflamed gum near the wisdom tooth;<br>
+<ul><li>Swelling</li>
+<li>Pain</li>
+<li>pus coming from the gum </li>
+<li>the lymph glands under the jaw become swollen and sore </li>
+<li>it may become difficult to open the mouth and to swallow </li>
+<li>fever</li></ul>
+Treatment for wisdom teeth infection<br>
+Infections caused by wisdom teeth can be treated with antibiotics. However, the infection may keep coming back if problem teeth are not removed. People who have other health problems, especially those with lower immunity, may have complications from these infections.<br>
+
+Removal of wisdom teeth:<br>
+X-rays will help to tell if wisdom teeth might cause problems. Some wisdom teeth do not cause problems and do not need to be taken out. Sometimes, the dentist or oral surgeon may just need to cut a small part of the gum to help the wisdom tooth come through.<br>
+If wisdom teeth do need to be taken out, a local or general anesthetic will be used, so you won’t feel it. Most wisdom teeth can be removed with local anesthesia alone.<br>
+Because wisdom teeth are large, the hole where the tooth was may be stitched to help it heal.<br>
+It is normal for your jaw and gum to be sore, swollen and bleed for a few days after having a wisdom tooth out.<br>
+The risks and complications involved in the removal of third molars are:<br>
+<h4>PAIN</h4>
+Surgical removal of the third molars can lead to some discomfort and pain. This is usually treated with pain medication.<br>
+ 
+<h4>INFECTION</h4>
+Because of the large number of bacteria present in the mouth post-surgical infection is always possible. Patients are usually placed on prophylactic antibiotics to prevent infections from developing.<br>
+ 
+<h4>SWELLING</h4>
+Following surgery patients may experience swelling and bruising. These symptoms vary between patients.<br>
+ 
+<h4>BLEEDING</h4>
+Some post-surgical bleeding is considered normal. This is usually minimal and is easily controlled with the pressure of biting on gauze. <br>
+
+<h4>DRY SOCKET</h4>
+One possible complication of wisdom teeth removal is a dry socket (alveolar osteitis), when the area where the tooth came out of doesn’t heal properly. Bad breath and pain from the socket are signs. A dry socket can be successfully treated by your oral health professional.<br>
+Wisdom teeth are best removed early:<br>
+Wisdom teeth don’t usually cause any pain until they start to do damage, so it is best to find out if your wisdom teeth are likely to cause problems sooner rather than later. The roots of wisdom teeth are still forming in a teenager so it is easier to take them out at this age. It may be more complicated if a person waits until later in life, when the roots are fully formed.<br>
+Our Expert Surgeons:
+Perform the surgery with utmost care to bring down the risk of complications to minimum.<br>
 
   	      			</p><br>
-  	      			<p><h3 class="DetailHeading"> </h3>
-
-  	      			</p><br>
-  	      				<p><h3 class="DetailHeading"> </h3>
-
-  	      			</p><br>
-  	      			<p><h3 class="DetailHeading"> </h3>
-
-  	      			</p><br>
-
+   
   	      		</div>
 
 

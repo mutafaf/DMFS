@@ -101,7 +101,7 @@
 		 </div>
 
 				  <div class="map">
-					 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d838.232568365316!2d74.06307123710255!3d32.568938985791846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2s!4v1436609649460" frameborder="0" style="border:0" allowfullscreen></iframe>
+					 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d13616.13935777938!2d74.2072217!3d31.4407078!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1436615896337"  frameborder="0" style="border:0" allowfullscreen></iframe>
 				  </div>
 				<!---End-contact---->		
 			</div>
